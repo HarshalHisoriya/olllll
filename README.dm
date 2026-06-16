@@ -13,15 +13,15 @@ Team Members:
 
 ---
 
-## Challenge
+## Challenge:
 
 Challenge Name: DATAbility | Ready for Takeoff
 
-We are tackling the problem of flight delay prediction and decision support for airline operations teams. The goal is not only to predict whether a flight may be delayed, but also to explain why the delay risk exists and recommend what an operations controller can do about it.
+We are tackling the problem of flight delay prediction and decision support for airline operations teams. The goal is not only to predict whether a flight may be delayed, but also to explain why the delay risk exists and recommend feasible solution for it.
 
 ---
 
-## Problem
+## Problem:
 
 Every day, airline operations teams must decide which flights are at risk of delay and what actions should be taken before the delay spreads through the network.
 
@@ -33,11 +33,9 @@ Today, operations controllers often rely on scattered dashboards, manual monitor
 
 ## Customer
 
-Our primary customer is:
+Our primary customer is: Airline Operations Controller / Duty Controller / OCC Dispatcher
 
-**Airline Operations Controller / Duty Controller / OCC Dispatcher**
-
-This user works inside the airline operations control center and makes real-time decisions such as:
+The user works inside the airline operations control center and makes real-time decisions such as:
 
 * Which flights need close monitoring
 * Whether to prepare faster turnaround support
